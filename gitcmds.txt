@@ -4,3 +4,6 @@ git log
 git add file1.txt
 git add .
 
+git push
+
+git fetch
