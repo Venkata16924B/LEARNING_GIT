@@ -1,0 +1,6 @@
+git status
+git init
+git log
+git add file1.txt
+git add .
+
